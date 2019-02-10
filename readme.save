@@ -1,0 +1,9 @@
+This examples are listed in the offcial rust documentation . 
+The idea is to master rust from zero to one .
+
+Project 1 
+	- Read the user input and print it on the  screen.
+
+
+Project 2
+	- Uses the rust rand crate and compare the user input with the number reture
