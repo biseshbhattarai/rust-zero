@@ -8,3 +8,15 @@ Project 2
 	- Uses the rust rand crate and compare the user input with the number
 	returned.
 	- return the results.
+
+Project 3
+	- (Continued.....)Checks for invalid input and is on a loop
+
+Project 4
+	- Data types
+		-Boolean
+		-Characters
+		-Float
+		-Integers
+		-Tuples
+		-Array
