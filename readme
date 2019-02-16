@@ -20,3 +20,5 @@ rust_04
 		-Integers
 		-Tuples
 		-Array
+rust_06
+	- Functions and its types
