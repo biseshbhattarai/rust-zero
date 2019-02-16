@@ -1,18 +1,18 @@
 This examples are listed in the offcial rust documentation . 
 The idea is to master rust from zero to one .
 
-Project 1
+rust_01
 	- Ask for user input and print it on the screen // Simple stuff
 
-Project 2
+rust_02
 	- Uses the rust rand crate and compare the user input with the number
 	returned.
 	- return the results.
 
-Project 3
+rust_03
 	- (Continued.....)Checks for invalid input and is on a loop
 
-Project 4
+rust_04
 	- Data types
 		-Boolean
 		-Characters
